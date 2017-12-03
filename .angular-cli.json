@@ -14,6 +14,7 @@
           "glob": "**/*.*",
           "input": "../server/",
           "output": "../"
+          "allowOutsideOutDir": true
         },
         "manifest.json"
       ],
